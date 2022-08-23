@@ -24,7 +24,7 @@ module.exports = {
     resolve: '@builder.io/gatsby',
     options: {
       // Replace with your Public API Key
-      publicAPIKey: '23fc09bae3b9456681c4121d87082b93',
+      publicAPIKey: '9d45f4226f17495a9222c2b8507d4420',
       templates: {
         // Render every `page` model as a new page using the
         // src/templates/page.jsx template based on the URL provided in Builder.io
