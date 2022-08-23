@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: `Builder.io`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://cute-panda-364dfe.netlify.app/`
   },
   plugins: [
     "gatsby-plugin-image", "gatsby-plugin-sitemap", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {

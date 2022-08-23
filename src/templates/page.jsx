@@ -4,7 +4,7 @@ import { BuilderComponent, builder } from '@builder.io/react';
 import { Header } from '../components/Header';
 import { Footer } from '../components/Footer';
 
-builder.init('5e5e61a9038447dca5554259e9fe0a6a');
+builder.init('9d45f4226f17495a9222c2b8507d4420');
 
 function PageTemplate({ data }) {
   const models = data?.allBuilderModels;
